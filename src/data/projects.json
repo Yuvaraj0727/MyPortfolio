@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Jobwala - a job portal",
+    "imageSrc": "projects/project.png",
+    "description": "This project is developed to user profile management and job search purpose.",
+    "skills": ["React", "Firebase", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Yuvaraj0727/Jobwala-a-job-portal"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/project.png",
+    "description": "This project was developed to fetch data from API and display the Weather details to users.",
+    "skills": ["React", "API's", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Yuvaraj0727/Weather-App"
+  },
+  {
+    "title": "Amazon UI",
+    "imageSrc": "projects/project.png",
+    "description": "This project is a simple UI of the amazon which use the html css and js for the development.",
+    "skills": ["HTML", "CSS", "JAVASCRIPT"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Yuvaraj0727/Amazon-UI"
+  }
+]

@@ -1,0 +1,22 @@
+[
+    {
+      "role": "Post Graduation",
+      "organisation": "K.L.N College of Engineering",
+      "startDate": "October 2022",
+      "endDate": "July 2024"
+    },
+    {
+      "role": "Under Graduation",
+      "organisation": "The American College",
+      "startDate": "June 2019",
+      "endDate": "May 2022"
+    },
+    {
+      "role": "HSLC",
+      "organisation": "Sri Sadhana Matric. Hr. Sec. School",
+      "startDate": "April 2018",
+      "endDate": "March 2019",
+      "imageSrc": "history/netflix.png"
+    }
+  ]
+  
